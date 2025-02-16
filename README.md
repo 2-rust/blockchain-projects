@@ -36,7 +36,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://floppylabs.io)
   
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/DillonSolai/fllopy-labs)
+- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/fllopy-labs)
 ---
 
 ### **🟢 Artplex (Solana NFT Marketplace)**
@@ -47,7 +47,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://artplex.io/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/DillonSolai/artplex)
+- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/artplex)
 ---
 
 ### **🟢 Seek Syndicate (Solana P2E Game)**
@@ -59,7 +59,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://www.seekersyndicate.com/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/DillonSolai/SPLFaucetSmartContract)
+- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/SPLFaucetSmartContract)
 ---
 
 ### **🟢 HydraSwap (Solana DEX)**
@@ -71,7 +71,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://hydraswap.io/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/DillonSolai/hydraswap)
+- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/hydraswap)
 
 ---
 
@@ -98,7 +98,7 @@ All repositories are private and contain production-ready smart contracts and dA
 <div>- Implemented non-custodial BTC staking with `CLTV (CheckLockTimeVerify, Control RedeemScript)`.</div>
 
 📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/DillonSolai/COVault-App/tree/master/multisig-wallet)
+- 🔗 [Backend Repo](https://github.com/T-rustdev/COVault-App/tree/master/multisig-wallet)
 ---
 
 ### **🟡 BMP BRC20 (BRC20 Airdrop)**
@@ -111,8 +111,8 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://bmpbrc.com/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/DillonSolai/BRC20-withdraw-Backend)
-- 🔗 [Frontend Repo](https://github.com/DillonSolai/BRC20-withdraw-Frontend)
+- 🔗 [Backend Repo](https://github.com/T-rustdev/BRC20-withdraw-Backend)
+- 🔗 [Frontend Repo](https://github.com/T-rustdev/BRC20-withdraw-Frontend)
 
 ---
 
@@ -128,8 +128,8 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://yieldzprotocol.com/)
   
 📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/DillonSolai/360-Defi-SmartContract)
-- 🔗 [Frontend Repo](https://github.com/DillonSolai/Yieldz-Defi-Frontend)
+- 🔗 [Backend Repo](https://github.com/T-rustdev/360-Defi-SmartContract)
+- 🔗 [Frontend Repo](https://github.com/T-rustdev/Yieldz-Defi-Frontend)
 ---
 
 ### **🔷 DigiMonkz (Ethereum NFT)**
@@ -141,8 +141,8 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://digimonkz.com/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/DillonSolai/DigiMonkz-Staking)
-- 🔗 [Frontend Repo](https://github.com/DillonSolai/DigiMokz-Frontend)
+- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/DigiMonkz-Staking)
+- 🔗 [Frontend Repo](https://github.com/T-rustdev/DigiMokz-Frontend)
 
 ---
 
@@ -157,9 +157,9 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://playzelo.xyz/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/DillonSolai/scissors/tree/master/backend)
-- 🔗 [Frontend Repo](https://github.com/DillonSolai/scissors/tree/master/frontend)
-- 🔗 [Admin Repo](https://github.com/DillonSolai/scissors/tree/master/admin)
+- 🔗 [Backend Repo](https://github.com/T-rustdev/scissors/tree/master/backend)
+- 🔗 [Frontend Repo](https://github.com/T-rustdev/scissors/tree/master/frontend)
+- 🔗 [Admin Repo](https://github.com/T-rustdev/scissors/tree/master/admin)
 
 ---
 
