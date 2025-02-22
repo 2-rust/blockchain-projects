@@ -27,6 +27,17 @@ All repositories are private and contain production-ready smart contracts and dA
 ## **💜 Solana Projects**
 ---
 
+### **🟢 Mutmarket (NFT Marketplace)**
+<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
+<div>- Solana Marketplace smart contract forking MagicEden</div>
+<div>- NFT Games(Spin and Auction)</div>
+
+📌 **Live:**  
+- 🔗 [Live](https://nut.market)
+  
+📌 **GitHub Repos:**  
+- 🔗 [FloppyLabs](https://github.com/T-rustdev/nut.market-marketplace)
+
 ### **🟢 Floppy Labs (Solana NFT Non Custodial Staking)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/cea297b1-f28e-4324-96eb-dfa1c6323894">
 <div>- Web3 NFT non custodial staking platform where users mint solana NFTs.</div>
@@ -36,18 +47,18 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://floppylabs.io)
   
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/fllopy-labs)
+- 🔗 [FloppyLabs](https://github.com/T-rustdev/floppylabs-nft-staking)
 ---
 
-### **🟢 Artplex (Solana NFT Marketplace)**
-<div>- NFT marketplace on Solana Network.</div>
+### **🟢 Artplex (Solana NFT Launchpad)**
+<div>- NFT Launchpad on Solana Network.</div>
 <div>- Developed **Smart Contracts using Anchor (Rust) for secure and efficient transactions.</div>
 
 📌 **Live:**  
 - 🔗 [Live](https://artplex.io/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/artplex)
+- 🔗 [Artplex](https://github.com/T-rustdev/artplex-nft-launchpad)
 ---
 
 ### **🟢 Seek Syndicate (Solana P2E Game)**
@@ -71,7 +82,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://hydraswap.io/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/hydraswap)
+- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/hydra-swap-HMM-dex)
 
 ---
 
