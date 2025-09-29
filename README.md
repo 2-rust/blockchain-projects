@@ -89,6 +89,19 @@ All repositories are private and contain production-ready smart contracts and dA
 ## **🔥 Bitcoin Projects**
 ---
 
+### **🟡 InternetJpegs (Bitcoin Ordinal Swap Project)**
+<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/fe96dd68-50b3-4055-a0e6-011d84e6a989" />
+<div>- Users can buy or swap ordinals</div>
+<div>- Also chat about ordinal swap.</div>
+
+📌 **Live:**  
+- [Live](https://internetjpeg.com/)
+
+📌 **GitHub Repos:**  
+- 🔗 [Backend Repo](https://github.com/internetjpegs-com/Frontend)
+- 🔗 [Frontend Repo](https://github.com/internetjpegs-com/Backend)
+---
+
 ### **🟡 ArcusLab (Bitcoin DeFi Platform)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/182ea60e-66c1-4bb9-a05e-ef19ee6dd051">
 <div>- Users can supply/borrow BTC & BRC20 tokens with over-collateralization.</div>
