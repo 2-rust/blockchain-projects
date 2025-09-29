@@ -91,8 +91,8 @@ All repositories are private and contain production-ready smart contracts and dA
 
 ### **🟡 InternetJpegs (Bitcoin Ordinal Swap Project)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/fe96dd68-50b3-4055-a0e6-011d84e6a989" />
-<div>- Users can buy or swap ordinals</div>
-<div>- Also chat about ordinal swap.</div>
+<div>- users can buy ordinal with btc or swap with their ordinal. also list to sell their ordinals.</div>
+<div>- And you can also chat for selling or exchanging.</div>
 
 📌 **Live:**  
 - [Live](https://internetjpeg.com/)
