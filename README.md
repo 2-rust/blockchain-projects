@@ -37,7 +37,7 @@ All repositories are private and contain production-ready smart contracts and dA
   
 📌 **GitHub Repos:**  
 - 🔗 [FloppyLabs](https://github.com/T-rustdev/nut.market-marketplace)
-
+---
 ### **🟢 Floppy Labs (Solana NFT Non Custodial Staking)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/cea297b1-f28e-4324-96eb-dfa1c6323894">
 <div>- Web3 NFT non custodial staking platform where users mint solana NFTs.</div>
@@ -49,7 +49,6 @@ All repositories are private and contain production-ready smart contracts and dA
 📌 **GitHub Repos:**  
 - 🔗 [FloppyLabs](https://github.com/T-rustdev/floppylabs-nft-staking)
 ---
-
 ### **🟢 Artplex (Solana NFT Launchpad)**
 <div>- NFT Launchpad on Solana Network.</div>
 <div>- Developed **Smart Contracts using Anchor (Rust) for secure and efficient transactions.</div>
@@ -60,7 +59,6 @@ All repositories are private and contain production-ready smart contracts and dA
 📌 **GitHub Repos:**  
 - 🔗 [Artplex](https://github.com/T-rustdev/artplex-nft-launchpad)
 ---
-
 ### **🟢 Seek Syndicate (Solana P2E Game)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/d3567afa-68c8-45ca-a24b-8642d3cb4947">
 <div>- P2E Game with SPL token rewards.</div>
@@ -72,7 +70,6 @@ All repositories are private and contain production-ready smart contracts and dA
 📌 **GitHub Repos:**  
 - 🔗 [Smart Contract Repo](https://github.com/T-rustdev/SPLFaucetSmartContract)
 ---
-
 ### **🟢 HydraSwap (Solana DEX)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
 <div>- Cross-chain DEX** with Hydra Market Maker (HMM) smart pricing algorithm.</div>
@@ -88,7 +85,6 @@ All repositories are private and contain production-ready smart contracts and dA
 
 ## **🔥 Bitcoin Projects**
 ---
-
 ### **🟡 InternetJpegs (Bitcoin Ordinal Swap Project)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/fe96dd68-50b3-4055-a0e6-011d84e6a989" />
 <div>- users can buy ordinal with btc or swap with their ordinal. also list to sell their ordinals.</div>
@@ -101,7 +97,6 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Backend Repo](https://github.com/internetjpegs-com/Frontend)
 - 🔗 [Frontend Repo](https://github.com/internetjpegs-com/Backend)
 ---
-
 ### **🟡 ArcusLab (Bitcoin DeFi Platform)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/182ea60e-66c1-4bb9-a05e-ef19ee6dd051">
 <div>- Users can supply/borrow BTC & BRC20 tokens with over-collateralization.</div>
@@ -115,7 +110,6 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Backend Repo](https://github.com/ArcusBTC/arcus-app)
 - 🔗 [Frontend Repo](https://github.com/ArcusBTC/ArcusLab-FE)
 ---
-
 ### **🟡 AletheiasAgora (Bitcoin DApp)**
 <div>- A platform for minting ordinals, raffles, recursion, and reinscription.</div>
 <div>- Deployed Rune Swap with enhanced security via a MultiSig wallet.</div>
@@ -124,7 +118,6 @@ All repositories are private and contain production-ready smart contracts and dA
 📌 **GitHub Repos:**  
 - 🔗 [Backend Repo](https://github.com/T-rustdev/COVault-App/tree/master/multisig-wallet)
 ---
-
 ### **🟡 BMP BRC20 (BRC20 Airdrop)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/caee3d58-4038-4463-aeb8-8bbc5dc4c365">
 <div>- **Airdrop platform** for **BRC20 tokens** to **Taproot addresses**.</div>
@@ -142,7 +135,6 @@ All repositories are private and contain production-ready smart contracts and dA
 
 ## **💎 EVM (Ethereum, Binance, Polygon, Avalanche) Projects**
 ---
-
 ### **🔷 Yieldz Lending (Polygon)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
 <div>- **DeFi Lending Protocol** offering **real-yield mechanisms** for investors.</div>
@@ -155,7 +147,6 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Backend Repo](https://github.com/T-rustdev/360-Defi-SmartContract)
 - 🔗 [Frontend Repo](https://github.com/T-rustdev/Yieldz-Defi-Frontend)
 ---
-
 ### **🔷 DigiMonkz (Ethereum NFT)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7524314b-0937-4fe6-b595-374c407077ae">
 <div>- Web3 **NFT staking** platform where **users mint GEN111/GEN2 NFTs**.</div>
@@ -167,9 +158,7 @@ All repositories are private and contain production-ready smart contracts and dA
 📌 **GitHub Repos:**  
 - 🔗 [Smart Contract Repo](https://github.com/T-rustdev/DigiMonkz-Staking)
 - 🔗 [Frontend Repo](https://github.com/T-rustdev/DigiMokz-Frontend)
-
 ---
-
 ## **🎮 Gaming & NFT Projects**
 ### **🟠 Playzelo (Multi-Chain GameFi)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/5509f81c-9161-45c7-9196-2abaa4f43f4d">
