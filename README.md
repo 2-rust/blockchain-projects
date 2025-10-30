@@ -185,7 +185,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 ## **📌 Get Involved**
 🚀 If you are interested in contributing or collaborating, feel free to reach out!  
-📩 Contact: **[T-rustdev](https://t.me/T_rustdev)**
+📩 Contact: **[T-rustdev](https://t.me/rust_devv)**
 
 ---
 
