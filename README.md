@@ -27,6 +27,18 @@ All repositories are private and contain production-ready smart contracts and dA
 ## **💜 Solana Projects**
 ---
 
+### **🟢 Critters Quest (NFT Gaming  Span, )**
+<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
+
+<div>This project is a blockchain-based gaming and collectible platform built on *Solana*. Users can own, *stake*, and *trade* NFTs (digital collectibles), and possibly earn rewards through gameplay or participation.</div>
+
+📌 **Live:**  
+- 🔗 [Live](https://nut.market)
+  
+📌 **GitHub Repos:**  
+- 🔗 [Git](https://github.com/2-rust/nut.market-marketplace)
+---
+
 ### **🟢 Mutmarket (NFT Marketplace)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
 <div>- Solana Marketplace smart contract forking MagicEden</div>
@@ -36,7 +48,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://nut.market)
   
 📌 **GitHub Repos:**  
-- 🔗 [FloppyLabs](https://github.com/T-rustdev/nut.market-marketplace)
+- 🔗 [Git](https://github.com/2-rust/nut.market-marketplace)
 ---
 ### **🟢 Floppy Labs (Solana NFT Non Custodial Staking)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/cea297b1-f28e-4324-96eb-dfa1c6323894">
@@ -47,7 +59,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://floppylabs.io)
   
 📌 **GitHub Repos:**  
-- 🔗 [FloppyLabs](https://github.com/T-rustdev/floppylabs-nft-staking)
+- 🔗 [FloppyLabs](https://github.com/2-rust/floppylabs-nft-staking)
 ---
 ### **🟢 Artplex (Solana NFT Launchpad)**
 <div>- NFT Launchpad on Solana Network.</div>
@@ -57,7 +69,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://artplex.io/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Artplex](https://github.com/T-rustdev/artplex-nft-launchpad)
+- 🔗 [Artplex](https://github.com/2-rust/artplex-nft-launchpad)
 ---
 ### **🟢 Seek Syndicate (Solana P2E Game)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/d3567afa-68c8-45ca-a24b-8642d3cb4947">
@@ -68,7 +80,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://www.seekersyndicate.com/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/SPLFaucetSmartContract)
+- 🔗 [Smart Contract Repo](https://github.com/2-rust/SPLFaucetSmartContract)
 ---
 ### **🟢 HydraSwap (Solana DEX)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
@@ -79,7 +91,7 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://hydraswap.io/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/hydra-swap-HMM-dex)
+- 🔗 [Smart Contract Repo](https://github.com/2-rust/hydra-swap-HMM-dex)
 
 ---
 
@@ -116,7 +128,7 @@ All repositories are private and contain production-ready smart contracts and dA
 <div>- Implemented non-custodial BTC staking with `CLTV (CheckLockTimeVerify, Control RedeemScript)`.</div>
 
 📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/T-rustdev/COVault-App/tree/master/multisig-wallet)
+- 🔗 [Backend Repo](https://github.com/2-rust/COVault-App/tree/master/multisig-wallet)
 ---
 ### **🟡 BMP BRC20 (BRC20 Airdrop)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/caee3d58-4038-4463-aeb8-8bbc5dc4c365">
@@ -128,8 +140,8 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://bmpbrc.com/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/T-rustdev/BRC20-withdraw-Backend)
-- 🔗 [Frontend Repo](https://github.com/T-rustdev/BRC20-withdraw-Frontend)
+- 🔗 [Backend Repo](https://github.com/2-rust/BRC20-withdraw-Backend)
+- 🔗 [Frontend Repo](https://github.com/2-rust/BRC20-withdraw-Frontend)
 
 ---
 
@@ -144,8 +156,8 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://yieldzprotocol.com/)
   
 📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/T-rustdev/360-Defi-SmartContract)
-- 🔗 [Frontend Repo](https://github.com/T-rustdev/Yieldz-Defi-Frontend)
+- 🔗 [Backend Repo](https://github.com/2-rust/360-Defi-SmartContract)
+- 🔗 [Frontend Repo](https://github.com/2-rust/Yieldz-Defi-Frontend)
 ---
 ### **🔷 DigiMonkz (Ethereum NFT)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7524314b-0937-4fe6-b595-374c407077ae">
@@ -156,8 +168,8 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://digimonkz.com/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/T-rustdev/DigiMonkz-Staking)
-- 🔗 [Frontend Repo](https://github.com/T-rustdev/DigiMokz-Frontend)
+- 🔗 [Smart Contract Repo](https://github.com/2-rust/DigiMonkz-Staking)
+- 🔗 [Frontend Repo](https://github.com/2-rust/DigiMokz-Frontend)
 ---
 ## **🎮 Gaming & NFT Projects**
 ### **🟠 Playzelo (Multi-Chain GameFi)**
@@ -170,9 +182,9 @@ All repositories are private and contain production-ready smart contracts and dA
 - 🔗 [Live](https://playzelo.xyz/)
 
 📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/T-rustdev/scissors/tree/master/backend)
-- 🔗 [Frontend Repo](https://github.com/T-rustdev/scissors/tree/master/frontend)
-- 🔗 [Admin Repo](https://github.com/T-rustdev/scissors/tree/master/admin)
+- 🔗 [Backend Repo](https://github.com/2-rust/scissors/tree/master/backend)
+- 🔗 [Frontend Repo](https://github.com/2-rust/scissors/tree/master/frontend)
+- 🔗 [Admin Repo](https://github.com/2-rust/scissors/tree/master/admin)
 
 ---
 
@@ -185,7 +197,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 ## **📌 Get Involved**
 🚀 If you are interested in contributing or collaborating, feel free to reach out!  
-📩 Contact: **[T-rustdev](https://t.me/T_rustdev)**
+📩 Contact: **[2-rust](https://t.me/T_rustdev)**
 
 ---
 
