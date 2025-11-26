@@ -21,6 +21,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://nyxcipher.ai/)
+
 📌 **Github Repos:**  
 - 🔗 [Git](https://github.com/2-rust/nyx-cipher/backend)
 
@@ -37,6 +38,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://nut.market)
+
 📌 **GitHub Repos:**  
 - 🔗 [Git](https://github.com/2-rust/nut.market-marketplace)
 ---
@@ -47,6 +49,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://floppylabs.io)
+
 📌 **GitHub Repos:**  
 - 🔗 [FloppyLabs](https://github.com/2-rust/floppylabs-nft-staking)
 ---
@@ -56,6 +59,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://artplex.io/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Artplex](https://github.com/2-rust/artplex-nft-launchpad)
 ---
@@ -66,6 +70,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://www.seekersyndicate.com/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Smart Contract Repo](https://github.com/2-rust/SPLFaucetSmartContract)
 ---
@@ -76,6 +81,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://hydraswap.io/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Smart Contract Repo](https://github.com/2-rust/hydra-swap-HMM-dex)
 ---
@@ -87,6 +93,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live]([https://nut.market](https://critters.quest/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Git](https://github.com/2-rust/critters-quest)
 ---
@@ -100,6 +107,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - [Live](https://internetjpeg.com/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Backend Repo](https://github.com/internetjpegs-com/Frontend)
 - 🔗 [Frontend Repo](https://github.com/internetjpegs-com/Backend)
@@ -112,6 +120,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - [Live](https://arcusbtc.com/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Backend Repo](https://github.com/ArcusBTC/arcus-app)
 - 🔗 [Frontend Repo](https://github.com/ArcusBTC/ArcusLab-FE)
@@ -132,6 +141,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://bmpbrc.com/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Backend Repo](https://github.com/2-rust/BRC20-withdraw-Backend)
 - 🔗 [Frontend Repo](https://github.com/2-rust/BRC20-withdraw-Frontend)
@@ -147,6 +157,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://yieldzprotocol.com/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Backend Repo](https://github.com/2-rust/360-Defi-SmartContract)
 - 🔗 [Frontend Repo](https://github.com/2-rust/Yieldz-Defi-Frontend)
@@ -158,6 +169,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://digimonkz.com/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Smart Contract Repo](https://github.com/2-rust/DigiMonkz-Staking)
 - 🔗 [Frontend Repo](https://github.com/2-rust/DigiMokz-Frontend)
@@ -171,6 +183,7 @@ All repositories are private and contain production-ready smart contracts and dA
 
 📌 **Live:**  
 - 🔗 [Live](https://playzelo.xyz/)
+
 📌 **GitHub Repos:**  
 - 🔗 [Backend Repo](https://github.com/2-rust/scissors/tree/master/backend)
 - 🔗 [Frontend Repo](https://github.com/2-rust/scissors/tree/master/frontend)
