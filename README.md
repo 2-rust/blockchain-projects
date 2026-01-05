@@ -11,6 +11,19 @@ All repositories are private and contain production-ready smart contracts and dA
 ---
 
 ## **🤖 Blockchain AI Agent Projects**
+
+---
+### **🔷 Unbound Fighters (Shape - EVM L2)**
+<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7134929a-ab82-4df4-85f8-3d6bb2626a5b">
+<div>- **Real-world activity** gaming project - Users can use NFTs in their wallets to improve their abilities through real-world activities. Users can improve their endurance, mental agility, and other abilities by running, practicing yoga, or meditating.</div>
+<div>- AI Trainer Agent(Dead And Butch)</div>
+
+📌 **Live:**  
+- 🔗 [Live](https://www.unbound.games/)
+
+📌 **GitHub Repos:**  
+- 🔗 [Backend Repo](https://github.com/2-rust/ubound-games-be)
+- 🔗 [Frontend Repo](https://github.com/2-rust/ubound-games-fe)
 ---
 
 ### Nyx Cipher (AI Agent on EVM & Solana)
@@ -149,18 +162,6 @@ All repositories are private and contain production-ready smart contracts and dA
 ---
 
 ## **💎 EVM (Ethereum, Binance, Polygon, Avalanche) Projects**
----
-### **🔷 Unbound Fighters (Shape - EVM L2)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7134929a-ab82-4df4-85f8-3d6bb2626a5b">
-<div>- **Real-world activity** gaming project - Users can use NFTs in their wallets to improve their abilities through real-world activities. Users can improve their endurance, mental agility, and other abilities by running, practicing yoga, or meditating.</div>
-<div>- Then Fighting with other users</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://www.unbound.games/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/2-rust/ubound-games-be)
-- 🔗 [Frontend Repo](https://github.com/2-rust/ubound-games-fe)
 ---
 ### **🔷 Yieldz Lending (Polygon)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
