@@ -15,8 +15,8 @@ All repositories are private and contain production-ready smart contracts and dA
 ---
 ### **🔷 Unbound Fighters (Shape - EVM L2)**
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7134929a-ab82-4df4-85f8-3d6bb2626a5b">
-<div>- **Real-world activity** gaming project - Users can use NFTs in their wallets to improve their abilities through real-world activities. Users can improve their endurance, mental agility, and other abilities by running, practicing yoga, or meditating.</div>
-<div>- AI Trainer Agent(Dead And Butch)</div>
+<div>- Built a Web3 fitness training platform that gamifies NFT fighter progression through real-world activities (Strava running, yoga, meditation), dynamically updating off-chain fighter attributes and generating OpenSea-compatible NFT metadata in real time for 5,200+ fighters using a TypeScript/Express microservice backend, Python/FastAPI AI agent, and React/Next.js frontend with wallet connectivity.</div>
+<div>- Designed an AI-powered training recommendation system with LangGraph state machines, three ChromaDB vector databases, and Ollama LLMs to analyze months of training history, identify undertrained attributes, and deliver prioritized, personality-driven coaching while achieving ~70% query reduction and ~10ms response times via caching, pooling, and parallel execution.</div>
 
 📌 **Live:**  
 - 🔗 [Live](https://www.unbound.games/)
