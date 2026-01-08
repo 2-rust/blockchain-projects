@@ -83,6 +83,8 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - Multi-layered DeFi lending with real-yield mechanisms
 
+- Solidity 
+
 - 📌 **Live:** [yieldzprotocol.com](https://yieldzprotocol.com/)
 
 - 📌 **Repo:** [Backend](https://github.com/2-rust/360-Defi-SmartContract) / [Frontend](https://github.com/2-rust/Yieldz-Defi-Frontend)
