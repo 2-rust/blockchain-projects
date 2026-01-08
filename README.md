@@ -1,7 +1,8 @@
 # Dillon | Blockchain AI Architect & Full-Stack Web3 Engineer
 
-🚀 **I build scalable, secure, and AI-powered blockchain systems across EVM chains, Solana, and Bitcoin.**
-I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-grade performance.
+🚀 **I build scalable, secure, and AI-powered blockchain systems across EVM chains, Solana, and Bitcoin.** My expertise spans **DeFi, DEXs, NFT marketplaces, P2E games, hybrid on-chain/off-chain data systems, and AI agents**.
+
+I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-level performance.
 
 ---
 
@@ -25,10 +26,10 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 ## 📊 AI + Blockchain Architecture Overview
 
 ```
-+-----------------+        +------------------+        +-----------------+
-| Real-World Data | --->   | AI Agent (LangGraph) | ---> | Off-chain DB / Metadata |
-| (Strava, APIs)  |        | Personalized Coaching |   | SQLite / OpenSea JSON  |
-+-----------------+        +------------------+        +-----------------+
++-----------------+        +-----------------------+      +-------------------------+
+| Real-World Data | --->   | AI Agent (LangGraph)  | ---> | Off-chain DB / Metadata |
+| (Strava, APIs)  |        | Personalized Coaching |      | SQLite / OpenSea JSON   |
++-----------------+        +-----------------------+      +-------------------------+
          |                                                       |
          |-------------------------------------------------------|
                           Real-time updates & recommendations
@@ -70,7 +71,9 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ## 💜 Solana Projects
 
-### **🟢 Mutmarket (NFT Marketplace)**
+### **🟢 Nutmarket (NFT Marketplace)**
+<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
+<img width="634" height="37" alt="image" src="https://github.com/user-attachments/assets/22116229-d97a-4c51-8c14-1b048841ec8b" />
 
 * NFT Marketplace & Games (Spin / Auction)
 * Forked MagicEden contracts for custom features
@@ -79,6 +82,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 📌 **Repo:** [GitHub](https://github.com/2-rust/nut.market-marketplace)
 
 ### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
+<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/cea297b1-f28e-4324-96eb-dfa1c6323894"><img width="634" height="37" alt="image" src="https://github.com/user-attachments/assets/6d58a8e9-386c-4781-ad76-0a81f4c65bd1" />
 
 * Solana NFT staking & artifact rewards
 * Users mint NFTs & stake for rewards
