@@ -1,221 +1,104 @@
-# Blockchain Projects on Bitcoin, EVM, and Solana
+# Dillon | Blockchain AI Architect & Full-Stack Web3 Engineer
 
-This repository contains various **NFT, DeFi, and Blockchain** projects built across **Bitcoin, Ethereum, Binance, Avalanche, Polygon, Solana and Eliza Framework** networks. The projects include **ai agent, minting, staking, evolution/breeding features, raffle/auction houses, launchpads, marketplaces, P2E games**, and more.
+🚀 **I build scalable, secure, and AI-powered blockchain systems across EVM chains, Solana, and Bitcoin.** My expertise spans **DeFi, DEXs, NFT marketplaces, P2E games, hybrid on-chain/off-chain data systems, and AI agents**.
 
-All repositories are private and contain production-ready smart contracts and dApps.
-
-
-
-📌 **GitHub Repos:** _Private_
+I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-level performance.
 
 ---
 
-## **🤖 Blockchain AI Agent Projects**
+## 🌐 Key Expertise
+
+* **Chains:** Ethereum, BSC, Polygon, Avalanche, Solana, Bitcoin, Shape L2, Eliza Framework
+* **Domains:** DeFi, DEX, NFT marketplaces, NFT staking, launchpads, P2E, RWA gamification
+* **AI & Automation:** AI agents for trading, coaching, and intelligent blockchain workflows
+* **Languages & Tools:** Solidity, Rust, TypeScript, Python, Node.js, React/Next.js, LangGraph, ChromaDB, Docker
 
 ---
-### **🔷 Unbound Fighters (Shape - EVM L2)**
+
+## 🤖 Blockchain AI Agent Projects
+
+### 🔷 Unbound Fighters (Shape - EVM L2)
+
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7134929a-ab82-4df4-85f8-3d6bb2626a5b">
-<div>- Built a Web3 fitness training platform that gamifies NFT fighter progression through real-world activities (Strava running, yoga, meditation), dynamically updating off-chain fighter attributes and generating OpenSea-compatible NFT metadata in real time for 5,200+ fighters using a TypeScript/Express microservice backend, Python/FastAPI AI agent, and React/Next.js frontend with wallet connectivity.</div>
-<div>- Designed an AI-powered training recommendation system with LangGraph state machines, three ChromaDB vector databases, and Ollama LLMs to analyze months of training history, identify undertrained attributes, and deliver prioritized, personality-driven coaching while achieving ~70% query reduction and ~10ms response times via caching, pooling, and parallel execution.</div>
+- Web3 fitness platform gamifying **NFT fighter progression** through Strava, yoga, and meditation.  
+- **AI-powered training agent** built with LangGraph, ChromaDB triple vector databases, and Ollama LLMs for **personalized coaching**.  
+- Scales **5,200+ fighters** with **real-time OpenSea metadata** updates.  
+- Optimized performance: **70% fewer DB queries**, **10ms response times**, caching + pooling + parallel execution.  
 
-📌 **Live:**  
-- 🔗 [Live](https://www.unbound.games/)
+📌 **Live:** [Unbound Games](https://www.unbound.games/)
+📌 **Repos:** [Backend](https://github.com/2-rust/ubound-games-be) | [Frontend](https://github.com/2-rust/ubound-games-fe)
 
-📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/2-rust/ubound-games-be)
-- 🔗 [Frontend Repo](https://github.com/2-rust/ubound-games-fe)
 ---
 
-### Nyx Cipher (AI Agent on EVM & Solana)
+### 🔷 Nyx Cipher (AI Agent on EVM & Solana)
+
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/377f8819-d786-46e0-889b-6470457d0854">
-<div>- Developing AI-driven blockchain agents to automate financial and social intelligence on Ethereum(Base) & Solana.</div>
-<div>- Integrating smart contracts with AI processing to optimize blockchain interactions.</div>
-<div>- Cut research time 90%, amplify productivity by 10x. Power smarter investment decisions..</div>
+- AI agents automate **financial & social intelligence** on Ethereum & Solana.  
+- Integrates **smart contracts with AI processing** for optimized blockchain interactions.  
+- Productivity: **10x boost**, research time reduced by **90%**.  
 
-📌 **Live:**  
-- 🔗 [Live](https://nyxcipher.ai/)
-
-📌 **Github Repos:**  
-- 🔗 [Git](https://github.com/2-rust/nyx-cipher/backend)
+📌 **Live:** [Nyx Cipher](https://nyxcipher.ai/)
+📌 **Repo:** [Backend](https://github.com/2-rust/nyx-cipher/backend)
 
 ---
 
-## **💜 Solana Projects**
----
+## 💜 Solana Projects
 
-
-### **🟢 Mutmarket (NFT Marketplace)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
-<div>- Solana Marketplace smart contract forking MagicEden</div>
-<div>- NFT Games(Spin and Auction)</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://nut.market)
-
-📌 **GitHub Repos:**  
-- 🔗 [Git](https://github.com/2-rust/nut.market-marketplace)
----
-### **🟢 Floppy Labs (Solana NFT Non Custodial Staking)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/cea297b1-f28e-4324-96eb-dfa1c6323894">
-<div>- Web3 NFT non custodial staking platform where users mint solana NFTs.</div>
-<div>- Holders earn artifacts as rewards from staking.</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://floppylabs.io)
-
-📌 **GitHub Repos:**  
-- 🔗 [FloppyLabs](https://github.com/2-rust/floppylabs-nft-staking)
----
-### **🟢 Artplex (Solana NFT Launchpad)**
-<div>- NFT Launchpad on Solana Network.</div>
-<div>- Developed **Smart Contracts using Anchor (Rust) for secure and efficient transactions.</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://artplex.io/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Artplex](https://github.com/2-rust/artplex-nft-launchpad)
----
-### **🟢 Seek Syndicate (Solana P2E Game)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/d3567afa-68c8-45ca-a24b-8642d3cb4947">
-<div>- P2E Game with SPL token rewards.</div>
-<div>- Built Smart Contracts using Anchor (Rust) & Next.js for frontend.</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://www.seekersyndicate.com/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/2-rust/SPLFaucetSmartContract)
----
-### **🟢 HydraSwap (Solana DEX)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
-<div>- Cross-chain DEX** with Hydra Market Maker (HMM) smart pricing algorithm.</div>
-<div>- Concentrated liquidity for better LP rewards & impermanent loss reduction.</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://hydraswap.io/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/2-rust/hydra-swap-HMM-dex)
----
-
-### **🟢 Critters Quest (NFT Gaming  Span, )**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
-
-<div>This project is a blockchain-based gaming and collectible platform built on *Solana*. Users can own, *stake*, and *trade* NFTs (digital collectibles), and possibly earn rewards through gameplay or participation.</div>
-
-📌 **Live:**  
-- 🔗 [Live]([https://nut.market](https://critters.quest/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Git](https://github.com/2-rust/critters-quest)
----
-
-## **🔥 Bitcoin Projects**
----
-### **🟡 InternetJpegs (Bitcoin Ordinal Swap Project)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/fe96dd68-50b3-4055-a0e6-011d84e6a989" />
-<div>- users can buy ordinal with btc or swap with their ordinal. also list to sell their ordinals.</div>
-<div>- And you can also chat for selling or exchanging.</div>
-
-📌 **Live:**  
-- [Live](https://internetjpeg.com/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/internetjpegs-com/Frontend)
-- 🔗 [Frontend Repo](https://github.com/internetjpegs-com/Backend)
----
-### **🟡 ArcusLab (Bitcoin DeFi Platform)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/182ea60e-66c1-4bb9-a05e-ef19ee6dd051">
-<div>- Users can supply/borrow BTC & BRC20 tokens with over-collateralization.</div>
-<div>- Integrated Deep Lake API, DLC, Oracle, and Dot Swap API for liquidation & AMM.</div>
-<div>- Alpha version launching soon.</div>
-
-📌 **Live:**  
-- [Live](https://arcusbtc.com/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/ArcusBTC/arcus-app)
-- 🔗 [Frontend Repo](https://github.com/ArcusBTC/ArcusLab-FE)
----
-### **🟡 AletheiasAgora (Bitcoin DApp)**
-<div>- A platform for minting ordinals, raffles, recursion, and reinscription.</div>
-<div>- Deployed Rune Swap with enhanced security via a MultiSig wallet.</div>
-<div>- Implemented non-custodial BTC staking with `CLTV (CheckLockTimeVerify, Control RedeemScript)`.</div>
-
-📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/2-rust/COVault-App/tree/master/multisig-wallet)
----
-### **🟡 BMP BRC20 (BRC20 Airdrop)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/caee3d58-4038-4463-aeb8-8bbc5dc4c365">
-<div>- **Airdrop platform** for **BRC20 tokens** to **Taproot addresses**.</div>
-<div>- Supports **Unisat, Leader, and XVerse wallets**.</div>
-<div>- Utilized `PSBT` & `bitcoinjs` for deploying & minting tokens.</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://bmpbrc.com/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/2-rust/BRC20-withdraw-Backend)
-- 🔗 [Frontend Repo](https://github.com/2-rust/BRC20-withdraw-Frontend)
+| Project            | Description                                       | Live                                                    | Repo                                                               |
+| ------------------ | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Mutmarket**      | NFT marketplace with spin & auction games         | [nut.market](https://nut.market)                        | [GitHub](https://github.com/2-rust/nut.market-marketplace)         |
+| **Floppy Labs**    | NFT non-custodial staking platform                | [floppylabs.io](https://floppylabs.io)                  | [GitHub](https://github.com/2-rust/floppylabs-nft-staking)         |
+| **Artplex**        | NFT Launchpad using Anchor smart contracts        | [artplex.io](https://artplex.io/)                       | [GitHub](https://github.com/2-rust/artplex-nft-launchpad)          |
+| **Seek Syndicate** | P2E Game with SPL token rewards                   | [seekersyndicate.com](https://www.seekersyndicate.com/) | [Smart Contract](https://github.com/2-rust/SPLFaucetSmartContract) |
+| **HydraSwap**      | Cross-chain DEX with Hydra Market Maker algorithm | [hydraswap.io](https://hydraswap.io/)                   | [Smart Contract](https://github.com/2-rust/hydra-swap-HMM-dex)     |
+| **Critters Quest** | Blockchain gaming & NFT collectibles platform     | [critters.quest](https://critters.quest/)               | [GitHub](https://github.com/2-rust/critters-quest)                 |
 
 ---
 
-## **💎 EVM (Ethereum, Binance, Polygon, Avalanche) Projects**
----
-### **🔷 Yieldz Lending (Polygon)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
-<div>- **DeFi Lending Protocol** offering **real-yield mechanisms** for investors.</div>
-<div>- First **multi-layered real-yield ecosystem** providing stable passive income.</div>
+## 🔒 Bitcoin Projects
 
-📌 **Live:**  
-- 🔗 [Live](https://yieldzprotocol.com/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/2-rust/360-Defi-SmartContract)
-- 🔗 [Frontend Repo](https://github.com/2-rust/Yieldz-Defi-Frontend)
----
-### **🔷 DigiMonkz (Ethereum NFT)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7524314b-0937-4fe6-b595-374c407077ae">
-<div>- Web3 **NFT staking** platform where **users mint GEN111/GEN2 NFTs**.</div>
-<div>- Holders earn **artifacts** as rewards from staking.</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://digimonkz.com/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Smart Contract Repo](https://github.com/2-rust/DigiMonkz-Staking)
-- 🔗 [Frontend Repo](https://github.com/2-rust/DigiMokz-Frontend)
----
-## **🎮 Gaming & NFT Projects**
-### **🟠 Playzelo (Multi-Chain GameFi)**
-<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/5509f81c-9161-45c7-9196-2abaa4f43f4d">
-<div>- Deployed on **Bitcoin, Ethereum, Binance, and Solana**.</div>
-<div>- Includes **Scissors, Turtlerace, Mines, Dice, Plinko, Slot, Crash** games.</div>
-<div>- Supports **native tokens & USDT, USDC for betting**.</div>
-
-📌 **Live:**  
-- 🔗 [Live](https://playzelo.xyz/)
-
-📌 **GitHub Repos:**  
-- 🔗 [Backend Repo](https://github.com/2-rust/scissors/tree/master/backend)
-- 🔗 [Frontend Repo](https://github.com/2-rust/scissors/tree/master/frontend)
-- 🔗 [Admin Repo](https://github.com/2-rust/scissors/tree/master/admin)
+| Project               | Description                                             | Live                                          | Repo                                                                                                                        |
+| --------------------- | ------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **InternetJpegs**     | Ordinal Swap & chat marketplace                         | [internetjpeg.com](https://internetjpeg.com/) | [Frontend](https://github.com/internetjpegs-com/Frontend) / [Backend](https://github.com/internetjpegs-com/Backend)         |
+| **ArcusLab**          | BTC & BRC20 lending/borrowing DeFi                      | [arcusbtc.com](https://arcusbtc.com/)         | [Backend](https://github.com/ArcusBTC/arcus-app) / [Frontend](https://github.com/ArcusBTC/ArcusLab-FE)                      |
+| **AletheiasAgora**    | Ordinal minting, raffles, and non-custodial BTC staking | -                                             | [Backend](https://github.com/2-rust/COVault-App/tree/master/multisig-wallet)                                                |
+| **BMP BRC20 Airdrop** | BRC20 airdrop platform supporting Taproot wallets       | [bmpbrc.com](https://bmpbrc.com/)             | [Backend](https://github.com/2-rust/BRC20-withdraw-Backend) / [Frontend](https://github.com/2-rust/BRC20-withdraw-Frontend) |
 
 ---
 
-## **🔒 Security & Smart Contract Audits**
-<div>- Implemented **MultiSig wallets** for enhanced security.</div>
-<div>- Used **Deep Lake, DLCs, and PSBT** for **Bitcoin security enhancements**.</div>
-<div>- Developed **custom governance & voting systems**.</div>
+## 💎 EVM Projects (Ethereum, Binance, Polygon, Avalanche)
+
+| Project                      | Description                                         | Live                                              | Repo                                                                                                                     |
+| ---------------------------- | --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Yieldz Lending (Polygon)** | Multi-layer DeFi lending with real-yield mechanisms | [yieldzprotocol.com](https://yieldzprotocol.com/) | [Backend](https://github.com/2-rust/360-Defi-SmartContract) / [Frontend](https://github.com/2-rust/Yieldz-Defi-Frontend) |
+| **DigiMonkz**                | NFT staking platform (GEN111/GEN2 NFTs) & rewards   | [digimonkz.com](https://digimonkz.com/)           | [Smart Contract](https://github.com/2-rust/DigiMonkz-Staking) / [Frontend](https://github.com/2-rust/DigiMokz-Frontend)  |
 
 ---
 
-## **📌 Get Involved**
-🚀 If you are interested in contributing or collaborating, feel free to reach out!  
-📩 Contact: **[2-rust](https://t.me/rust_devv)**
+## 🎮 Multi-Chain Gaming & NFT Projects
+
+| Project      | Description                                                               | Live                                  | Repo                                                                                                                                                                                                    |
+| ------------ | ------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Playzelo** | Multi-chain GameFi (BTC, ETH, BSC, Solana), supports betting & mini-games | [playzelo.xyz](https://playzelo.xyz/) | [Backend](https://github.com/2-rust/scissors/tree/master/backend) / [Frontend](https://github.com/2-rust/scissors/tree/master/frontend) / [Admin](https://github.com/2-rust/scissors/tree/master/admin) |
 
 ---
 
-## **📜 License**
-This project is licensed under **MIT License**.  
+## 🔧 Security & Audits
+
+* MultiSig wallets for enhanced smart contract security.
+* Bitcoin PSBT & DLC integrations for custody & transaction verification.
+* Custom governance & voting systems for DeFi projects.
+
+---
+
+## 📌 Collaborate / Hire Me
+
+I am open to **freelance, full-time, or collaboration opportunities in AI, blockchain, DeFi, and Web3**.
+
+📩 **Contact:** [Telegram @rust_devv](https://t.me/rust_devv)
+
+---
+
+## 📜 License
+
+MIT License
