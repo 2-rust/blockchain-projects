@@ -146,15 +146,6 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Repo:** [Artplex](https://github.com/2-rust/artplex-nft-launchpad)
 
-### **🟢 Seek Syndicate (P2E Game)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/d3567afa-68c8-45ca-a24b-8642d3cb4947">
-
-- SPL token rewards, Next.js frontend, Anchor smart contracts
-
-- 📌 **Live:** [seekersyndicate.com](https://www.seekersyndicate.com/)
-
-- 📌 **Repo:** [Smart Contracts](https://github.com/2-rust/SPLFaucetSmartContract)
-
 ### **🟢 HydraSwap (Solana DEX)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
 
@@ -165,6 +156,15 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 - 📌 **Live:** [hydraswap.io](https://hydraswap.io/)
 
 - 📌 **Repo:** [Smart Contracts](https://github.com/2-rust/hydra-swap-HMM-dex)
+
+### **🟢 Seek Syndicate (P2E Game)**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/d3567afa-68c8-45ca-a24b-8642d3cb4947">
+
+- SPL token rewards, Next.js frontend, Anchor smart contracts
+
+- 📌 **Live:** [seekersyndicate.com](https://www.seekersyndicate.com/)
+
+- 📌 **Repo:** [Smart Contracts](https://github.com/2-rust/SPLFaucetSmartContract)
 
 ---
 
