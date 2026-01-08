@@ -1,8 +1,7 @@
 # Dillon | Blockchain AI Architect & Full-Stack Web3 Engineer
 
 🚀 **I build scalable, secure, and AI-powered blockchain systems across EVM chains, Solana, and Bitcoin.**
-
-I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-level performance.
+I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-grade performance.
 
 ---
 
@@ -44,47 +43,161 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ## 🤖 Highlight Projects
 
-| Project              | Chain / Stack    | Description                             | Live                               | Repo                                                                                                                                    |
-| -------------------- | ---------------- | --------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Unbound Fighters** | Shape L2, EVM    | Web3 fitness + AI NFT progression       | [Live](https://www.unbound.games/) | [BE](https://github.com/2-rust/ubound-games-be) / [FE](https://github.com/2-rust/ubound-games-fe)                                       |
-| **Nyx Cipher**       | Ethereum, Solana | AI-driven trading & social intelligence | [Live](https://nyxcipher.ai/)      | [Backend](https://github.com/2-rust/nyx-cipher/backend)                                                                                 |
-| **Mutmarket**        | Solana           | NFT Marketplace + Auctions              | [Live](https://nut.market)         | [Repo](https://github.com/2-rust/nut.market-marketplace)                                                                                |
-| **HydraSwap**        | Solana DEX       | Cross-chain DEX with HMM                | [Live](https://hydraswap.io/)      | [Smart Contract](https://github.com/2-rust/hydra-swap-HMM-dex)                                                                          |
-| **InternetJpegs**    | Bitcoin          | Ordinal Swap & Marketplace              | [Live](https://internetjpeg.com/)  | [Frontend](https://github.com/internetjpegs-com/Frontend) / [Backend](https://github.com/internetjpegs-com/Backend)                     |
-| **Playzelo**         | Multi-chain      | GameFi platform                         | [Live](https://playzelo.xyz/)      | [Backend](https://github.com/2-rust/scissors/tree/master/backend) / [Frontend](https://github.com/2-rust/scissors/tree/master/frontend) |
+### **🔷 Unbound Fighters (Shape - EVM L2)**
+
+<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7134929a-ab82-4df4-85f8-3d6bb2626a5b">
+- Web3 fitness + AI NFT progression platform  
+- AI-powered recommendations using **LangGraph + ChromaDB + Ollama LLMs**  
+- Off-chain fighter attributes, OpenSea metadata updates, wallet-connected frontend  
+- Performance: ~10ms response times, 70% DB query reduction  
+
+📌 **Live:** [unbound.games](https://www.unbound.games/)
+📌 **Repos:** [Backend](https://github.com/2-rust/ubound-games-be) / [Frontend](https://github.com/2-rust/ubound-games-fe)
 
 ---
 
-## 📌 Project Tech Badges
+### **🔷 Nyx Cipher (EVM & Solana)**
 
-### Unbound Fighters
+<img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/377f8819-d786-46e0-889b-6470457d0854">
+- AI-driven blockchain agent for trading & social intelligence  
+- Integrates smart contracts with AI processing to optimize decisions  
+- Amplifies productivity 10x, cuts research time by 90%  
 
-<p>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-FF4088?style=flat-square&logoColor=white" />
-<img alt="ChromaDB" src="https://img.shields.io/badge/-ChromaDB-22D3EE?style=flat-square&logoColor=white" />
-</p>
-
-* We can repeat these **per project** so each has a visual “tech footprint.”
+📌 **Live:** [nyxcipher.ai](https://nyxcipher.ai/)
+📌 **Repo:** [Backend](https://github.com/2-rust/nyx-cipher/backend)
 
 ---
 
-## 🌟 Why This Portfolio Stands Out
+## 💜 Solana Projects
 
-* Clear **multi-chain experience** (Bitcoin, Solana, EVM L2s)
-* **AI integration in production** workflows (LangGraph + ChromaDB + LLMs)
-* **Hybrid on-chain/off-chain architecture** for efficiency
-* **Gaming, NFT, DeFi, and DEX** expertise
-* **Visual badges and diagrams** highlight complexity at a glance
+### **🟢 Mutmarket (NFT Marketplace)**
+
+* NFT Marketplace & Games (Spin / Auction)
+* Forked MagicEden contracts for custom features
+
+📌 **Live:** [nut.market](https://nut.market)
+📌 **Repo:** [GitHub](https://github.com/2-rust/nut.market-marketplace)
+
+### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
+
+* Solana NFT staking & artifact rewards
+* Users mint NFTs & stake for rewards
+
+📌 **Live:** [floppylabs.io](https://floppylabs.io)
+📌 **Repo:** [FloppyLabs](https://github.com/2-rust/floppylabs-nft-staking)
+
+### **🟢 Artplex (NFT Launchpad)**
+
+* Anchor (Rust) smart contracts for secure minting & sales
+* Solana NFT launchpad
+
+📌 **Live:** [artplex.io](https://artplex.io/)
+📌 **Repo:** [Artplex](https://github.com/2-rust/artplex-nft-launchpad)
+
+### **🟢 Seek Syndicate (P2E Game)**
+
+* SPL token rewards, Next.js frontend, Anchor smart contracts
+
+📌 **Live:** [seekersyndicate.com](https://www.seekersyndicate.com/)
+📌 **Repo:** [Smart Contracts](https://github.com/2-rust/SPLFaucetSmartContract)
+
+### **🟢 HydraSwap (Solana DEX)**
+
+* Cross-chain DEX with **Hydra Market Maker (HMM)**
+* Concentrated liquidity & impermanent loss reduction
+
+📌 **Live:** [hydraswap.io](https://hydraswap.io/)
+📌 **Repo:** [Smart Contracts](https://github.com/2-rust/hydra-swap-HMM-dex)
+
+### **🟢 Critters Quest (NFT Game)**
+
+* Blockchain gaming & collectible platform
+* Users stake & trade NFTs, earn rewards
+
+📌 **Live:** [critters.quest](https://critters.quest/)
+📌 **Repo:** [GitHub](https://github.com/2-rust/critters-quest)
 
 ---
 
-## 📩 Connect / Collaborate
+## 🔥 Bitcoin Projects
 
-* Telegram: [@rust_devv](https://t.me/rust_devv)
-* GitHub: [2-rust](https://github.com/2-rust)
-* Open to **freelance, full-time, or collaboration opportunities**
+### **🟡 InternetJpegs (Ordinal Swap Project)**
+
+* Buy/swap ordinals, marketplace & chat
+  📌 **Live:** [internetjpeg.com](https://internetjpeg.com/)
+  📌 **Repo:** [Frontend](https://github.com/internetjpegs-com/Frontend) / [Backend](https://github.com/internetjpegs-com/Backend)
+
+### **🟡 ArcusLab (Bitcoin DeFi)**
+
+* Supply/borrow BTC & BRC20 tokens, over-collateralized
+* Integrates Deep Lake API, DLC, Oracle, AMM
+
+📌 **Live:** [arcusbtc.com](https://arcusbtc.com/)
+📌 **Repo:** [Backend](https://github.com/ArcusBTC/arcus-app) / [Frontend](https://github.com/ArcusBTC/ArcusLab-FE)
+
+### **🟡 AletheiasAgora (Bitcoin DApp)**
+
+* Ordinals minting, raffles, recursion, non-custodial staking
+* MultiSig enhanced security
+
+📌 **Repo:** [Backend](https://github.com/2-rust/COVault-App/tree/master/multisig-wallet)
+
+### **🟡 BMP BRC20 (BRC20 Airdrop)**
+
+* Airdrop platform for BRC20 tokens (Taproot)
+* Supports Unisat, Leader, XVerse wallets
+
+📌 **Live:** [bmpbrc.com](https://bmpbrc.com/)
+📌 **Repo:** [Backend](https://github.com/2-rust/BRC20-withdraw-Backend) / [Frontend](https://github.com/2-rust/BRC20-withdraw-Frontend)
+
+---
+
+## 💎 EVM Projects
+
+### **🔷 Yieldz Lending (Polygon)**
+
+* Multi-layered DeFi lending with real-yield mechanisms
+
+📌 **Live:** [yieldzprotocol.com](https://yieldzprotocol.com/)
+📌 **Repo:** [Backend](https://github.com/2-rust/360-Defi-SmartContract) / [Frontend](https://github.com/2-rust/Yieldz-Defi-Frontend)
+
+### **🔷 DigiMonkz (NFT Staking)**
+
+* Web3 NFT staking platform, GEN111/GEN2 NFTs, artifact rewards
+
+📌 **Live:** [digimonkz.com](https://digimonkz.com/)
+📌 **Repo:** [Smart Contract](https://github.com/2-rust/DigiMonkz-Staking) / [Frontend](https://github.com/2-rust/DigiMokz-Frontend)
+
+---
+
+## 🎮 Gaming & NFT Projects
+
+### **🟠 Playzelo (Multi-Chain GameFi)**
+
+* Games: Scissors, Turtlerace, Mines, Dice, Plinko, Slot, Crash
+* Multi-chain: Bitcoin, Ethereum, Binance, Solana
+
+📌 **Live:** [playzelo.xyz](https://playzelo.xyz/)
+📌 **Repos:** [Backend](https://github.com/2-rust/scissors/tree/master/backend) / [Frontend](https://github.com/2-rust/scissors/tree/master/frontend) / [Admin](https://github.com/2-rust/scissors/tree/master/admin)
+
+---
+
+## 🔒 Security & Audits
+
+* MultiSig wallets, PSBT, DLCs, governance & voting systems
+* Non-custodial staking & advanced security for Bitcoin, Solana & EVM
+
+---
+
+## 📌 Get Involved
+
+🚀 Open to **freelance, full-time, or collaborative opportunities**
+
+📩 Contact: [Telegram @rust_devv](https://t.me/rust_devv)
+
+---
+
+## 📜 License
+
+**MIT License**
 
