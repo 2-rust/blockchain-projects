@@ -48,8 +48,11 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 <img align="right" width="350px" height="190px" src="https://github.com/user-attachments/assets/7134929a-ab82-4df4-85f8-3d6bb2626a5b">
 - Web3 fitness + AI NFT progression platform
-- AI-powered recommendations using **LangGraph + ChromaDB + Ollama LLMs**  
-- Off-chain fighter attributes, OpenSea metadata updates, wallet-connected frontend  
+
+- AI-powered recommendations using **LangGraph + ChromaDB + Ollama LLMs**
+
+- Off-chain fighter attributes, OpenSea metadata updates, wallet-connected frontend
+
 - Performance: ~10ms response times, 70% DB query reduction  
 
 📌 **Live:** [unbound.games](https://www.unbound.games/)
