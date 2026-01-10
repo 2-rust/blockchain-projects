@@ -85,7 +85,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 100% on-chain, generative NFT system where each token's image and metadata are generated in real-time using SVG code via smart contracts 
 
-- 📌 **Live:** [yieldzprotocol.com](https://www.onchainexperiments.xyz/)
+- 📌 **Live:** [Onchain Experiments](https://www.onchainexperiments.xyz/)
 
 - 📌 **Repo:** [Backend](https://github.com/2-rust/onchain-experiments-v1)
 
@@ -113,6 +113,25 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ## 💜 Solana Projects
 
+### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fc0ed620-c590-4de5-8ef2-a05d0ccf2c7b">
+
+- **Fully Non-Custodial**: Your wallet, your keys—Luck.io never holds your funds. Connect your Solana wallet (e.g., Phantom, Solflare) and play directly.
+
+- **No KYC Required**: Privacy-first design; start playing anonymously without sharing personal information.
+
+- **Solana-Powered**: Lightning-fast transactions with low fees, thanks to Solana's high-throughput blockchain
+
+- **Provably Fair Games**: All outcomes are verifiable on-chain, ensuring transparency and fairness.
+
+- **Offline Mode Support**: Switch to offline mode for testing or demo purposes without connecting to the blockchain.
+
+- **JavaScript-Enabled App**: Modern web interface requiring JavaScript for full functionality.
+
+- 📌 **Live:** [Luck.io](https://luck.io/)
+
+- 📌 **Repo:** [GitHub](https://github.com/2-rust/Luck.io-casino-game)
+- 
 ### **🟢 Nutmarket (NFT Marketplace)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
 
