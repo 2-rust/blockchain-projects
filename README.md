@@ -78,6 +78,17 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ## 💎 EVM Projects
 
+### **🔷 Onchain-Experiments_V1(EVM)**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5074e654-17ea-4331-863f-c83f2e287152">
+
+- this project is a fully on-chain, generative NFT platform where artwork, metadata, and logic are permanently generated and stored directly on the blockchain, without external servers, IPFS
+
+- 100% on-chain, generative NFT system where each token's image and metadata are generated in real-time using SVG code via smart contracts 
+
+- 📌 **Live:** [yieldzprotocol.com](https://www.onchainexperiments.xyz/)
+
+- 📌 **Repo:** [Backend](https://github.com/2-rust/onchain-experiments-v1)
+
 ### **🔷 Yieldz Lending (Polygon)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
 
