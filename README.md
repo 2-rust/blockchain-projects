@@ -131,7 +131,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 - 📌 **Live:** [Luck.io](https://luck.io/)
 
 - 📌 **Repo:** [GitHub](https://github.com/2-rust/Luck.io-casino-game)
-- 
+
 ### **🟢 Nutmarket (NFT Marketplace)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
 
