@@ -114,6 +114,19 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 ## 💜 Solana Projects
 
 ### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/9e579ebd-81f3-4314-92d7-0d59989d8a04">
+
+- Real-time multiplayer game platform built for low-latency, high-concurrency gameplay
+
+- Combines WebSockets, Redis, and scalable backend services for instant state synchronization
+
+- Delivers smooth, production-grade multiplayer performance at scale
+
+- 📌 **Live:** [Luck.io](https://pvplabs.xyz/)
+
+- 📌 **Repo:** [Backend](https://github.com/OnChainMee/pvplabs/backend)/[Frontend](https://github.com/OnChainMee/pvplabs/frontend)
+
+### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fc0ed620-c590-4de5-8ef2-a05d0ccf2c7b">
 
 - **Fully Non-Custodial**: Your wallet, your keys—Luck.io never holds your funds. Connect your Solana wallet (e.g., Phantom, Solflare) and play directly.
