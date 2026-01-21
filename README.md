@@ -122,7 +122,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - Delivers smooth, production-grade multiplayer performance at scale
 
-- 📌 **Live:** [Luck.io](https://pvplabs.xyz/)
+- 📌 **Live:** [Slither](https://pvplabs.xyz/)
 
 - 📌 **Repo:** [Backend](https://github.com/OnChainMee/pvplabs/backend)/[Frontend](https://github.com/OnChainMee/pvplabs/frontend)
 
