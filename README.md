@@ -280,7 +280,8 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 🚀 Open to **freelance, full-time, or collaborative opportunities**
 
-📩 Contact: [Telegram @rust_devv](https://t.me/rust_devv)
+📩 Contact: [Telegram @OnChainMee](https://t.me/OnChainMee)
+[Twitter @OnChainMee](https://x.com/OnChainMee)
 
 ---
 
